@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<br><h3> 🧑‍💻 Experiences </h3>
+<br><h3> 💻 Experiences </h3>
 - University of Seoul ECE (18.03 - )
 
 <br><h3> 🛠️ Skills </h3>
