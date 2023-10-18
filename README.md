@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <br><h3> 💻 Experiences </h3>
-- University of Seoul ECE (18.03 - )
+- University of Seoul ECE (18.03 - 23.08)
 
 <br><h3> 🛠️ Skills </h3>
 
