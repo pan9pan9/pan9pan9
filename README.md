@@ -2,7 +2,7 @@
 
 <br><h3> 💻 Experiences </h3>
 - University of Seoul ECE (18.03 - 23.08)
-- N tech Service(Financial QA Engineer) (23.07 - )
+- N tech Service(Financial QA) (23.07 - )
 
 <br><h3> 🛠️ Skills </h3>
 
