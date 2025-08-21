@@ -6,12 +6,6 @@
 
 <br><h3> 🛠️ Skills </h3>
 
-
-
-<br><h3> 📝  Problem Solving </h3>
-
-![dmsrhkdakdmf's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dmsrhkdakdmf)
-
 <!--
 **pan9pan9/pan9pan9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
