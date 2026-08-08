@@ -3,7 +3,7 @@
 <br><h3> 💻 Experiences </h3>
 - University of Seoul ECE (18.03 - 23.08)
 - N tech Service(Financial QA) (23.07 - 25.11)
-- Flipster(QA Engineer) (25.11 - 26.03)
+- Flipster(QA Engineer) (25.11 - 26.06)
 
 <br><h3> 🛠️ Skills </h3>
 
